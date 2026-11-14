@@ -9,3 +9,4 @@ def greet():
 
 def goodbye():
     print("Bye")
+    print("See you soon")
